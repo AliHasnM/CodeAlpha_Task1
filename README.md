@@ -1,2 +1,8 @@
-# CodeAlpha_Task1
-✅ Created an intuitive interface for users to add and delete notes seamlessly. ✅ Leveraged the power of React JS for efficient state management and dynamic UI updates. ✅ Styled the app with elegance and finesse using Tailwind CSS, ensuring a sleek and modern design.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
